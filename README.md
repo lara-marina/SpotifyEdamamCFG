@@ -7,4 +7,4 @@ Just wanted to say a massive thank you for your guidance and support during the 
 
 I hope you enjoy my project! 
 
-(I will upload a video of the working code, due to being unable to upload the .env file.) 
+(I have uploaded a video of the working code, due to being unable to upload the .env file.) 
