@@ -1,10 +1,6 @@
 # SpotifyEdamamCFG
 CFG Kickstarter
 
-Hi Maria and Ashwini,
+This is my final project after the 8 week course offered by CFG covering foundations in Python and app development.
 
-Just wanted to say a massive thank you for your guidance and support during the course. I really enjoyed it. 
-
-I hope you enjoy my project! 
-
-(I have uploaded a video of the working code, due to being unable to upload the .env file.) 
+I created a search tool which utilises Spotify API/ Spotipy and Recipefy API to match genres to individual types of cuisine/ recipe. (pop -> desserts, techno -> cocktails)
